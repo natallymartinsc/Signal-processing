@@ -5,7 +5,9 @@ This repository contains code and materials related to the Sinal Processing clas
 ## Content
 Introduction: to review some concepts
 
-Lesson 01: Introduction of digital signal processing and the sampling theorem
+Class 01: Introduction of digital signal processing and the sampling theorem
+
+Class 02: Nysquist Theorem
 
 ## Tools and Techonologies
 Python
