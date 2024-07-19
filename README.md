@@ -9,6 +9,8 @@ Class 01: Introduction of digital signal processing and the sampling theorem
 
 Class 02: Nysquist Theorem
 
+Class 03: Aliasing
+
 ## Tools and Techonologies
 Python
 Numpy
