@@ -11,6 +11,9 @@ Class 02: Nysquist Theorem
 
 Class 03: Aliasing
 
+Class 04: Transformation in the independent variable
+
+
 ## Tools and Techonologies
 Python
 Numpy
