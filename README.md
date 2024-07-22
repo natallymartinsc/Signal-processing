@@ -15,6 +15,8 @@ Class 04: Transformation in the independent variable
 
 Class 05: Discrete Convolution
 
+Class 06: Discrete Fourier Transform
+
 
 ## Tools and Techonologies
 Python
