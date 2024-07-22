@@ -13,6 +13,8 @@ Class 03: Aliasing
 
 Class 04: Transformation in the independent variable
 
+Class 05: Discrete Convolution
+
 
 ## Tools and Techonologies
 Python
